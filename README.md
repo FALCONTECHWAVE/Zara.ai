@@ -136,7 +136,8 @@ Right-click in the Explorer panel and select New File. Name it zara_assistant.py
 
 
 5. Copy the Zara Code: Paste the following code into zara_assistant.py:
-
+<a id="installing"></a>
+```
 import pyttsx3
 import speech_recognition as sr
 import wikipedia
@@ -235,7 +236,7 @@ Run the application by executing:
 
 python zara_assistant.py
 
-
+```
 
 
 6. Usage Instructions
